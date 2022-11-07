@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente apenas estudo, sou apaixonado por tecnologia.
+- 📚 Atualmente trabalho na OfficerSoft, estudo nas horas vagas, sou apaixonado por tecnologia.
 - 💻 Faço projetos para testar meu conhecimento.
 
 <div>
